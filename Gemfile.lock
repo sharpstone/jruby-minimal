@@ -8,3 +8,9 @@ PLATFORMS
 
 DEPENDENCIES
   rack
+
+RUBY VERSION
+   ruby 2.3.1p0 (jruby 9.1.7.0)
+
+BUNDLED WITH
+   1.14.5
